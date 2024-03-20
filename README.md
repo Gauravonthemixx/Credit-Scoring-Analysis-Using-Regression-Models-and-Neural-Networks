@@ -45,4 +45,5 @@
 * It provides insights into how different regularization techniques affect model performance and how Neural Networks can be utilized for classification tasks like credit scoring.
 * The accuracy of the Neural Network model seems promising, achieving around 81.76%. However, further analysis such as cross-validation and hyperparameter tuning might be necessary for a more comprehensive assessment of model performance and generalization.
 
+## Pleade Go Through [credit-score-analysis HLD.pdf](https://github.com/Gauravonthemixx/Credit-Scoring-Analysis-Using-Regression-Models-and-Neural-Networks/files/14669504/credit-score-analysis.HLD.pdf) for more info. 📖
 
