@@ -40,4 +40,9 @@
 * The accuracy of the model is evaluated on the test set.
 * The accuracy achieved by the Neural Network model is reported.
 
+## :pencil: Results
+* The code demonstrates the implementation and evaluation of various regression models (linear and logistic) along with a Neural Network model for a credit scoring dataset.
+* It provides insights into how different regularization techniques affect model performance and how Neural Networks can be utilized for classification tasks like credit scoring.
+* The accuracy of the Neural Network model seems promising, achieving around 81.76%. However, further analysis such as cross-validation and hyperparameter tuning might be necessary for a more comprehensive assessment of model performance and generalization.
+
 
